@@ -15,16 +15,18 @@ To use the script, follow these steps:
 git clone https://github.com/nanadotam/ascii-art-converter.git
 ```
 2. Navigate to the project directory:
+```bash
 cd img-to-ascii
+```
 
 3. Run the script with the following command, providing the necessary arguments:
+```bash
 python3 img-to-ascii.py <image_path> <image_type> <output_file> <scale>
-
+```
 Replace `<image_path>` with the path to the input image file, `<image_type>` with the image file type (e.g., jpg, png), `<output_file>` with the desired name for the output ASCII art file, and `<scale>` with the scaling factor (an integer value).
 
 For example:
 python3 img-to-ascii.py mona_lisa.jpg jpg mona_lisa_ascii.txt 3
-
 
 This command will convert the "mona_lisa.jpg" image to ASCII art, scale it down by a factor of 3, and save the output to "mona_lisa_ascii.txt".
 
