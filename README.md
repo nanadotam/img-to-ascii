@@ -30,7 +30,7 @@ This command will convert the "mona_lisa.jpg" image to ASCII art, scale it down 
 
 ## Dependencies
 
-- Python 3.x
+- Python 3
 - Pillow (Python Imaging Library)
 
 ## Contributing
