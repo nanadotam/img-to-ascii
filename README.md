@@ -30,7 +30,7 @@ For example:
 python3 img-to-ascii.py mona_lisa.jpg jpg mona_lisa_ascii.txt 3
 ```
 
-This command will convert the "mona_lisa.jpg" image to ASCII art, scale it down by a factor of 3, and save the output to `<"mona_lisa_ascii.txt">`.
+This command will convert the "mona_lisa.jpg" image to ASCII art, scale it down by a factor of 3, and save the output to `"mona_lisa_ascii.txt"`.
 
 ## Dependencies
 
