@@ -11,9 +11,9 @@ The script takes an input image file, resizes it, and converts each pixel to a c
 To use the script, follow these steps:
 
 1. Clone the repository to your local machine:
-
+```bash
 git clone https://github.com/nanadotam/ascii-art-converter.git
-
+```
 2. Navigate to the project directory:
 cd img-to-ascii
 
